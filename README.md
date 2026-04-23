@@ -1,5 +1,6 @@
 # ⚖️ Localloox Legal Services
 
+---
 Localloox is a platform designed to simplify everyday legal services like affidavits, contracts, and document verification.  
 It helps users avoid complex offline processes by providing a clear, fast, and reliable digital workflow.
 ---
@@ -46,6 +47,7 @@ To make legal services:
 ---
 
 Download now : https://play.google.com/store/apps/details?id=com.localloox&pcampaignid=web_share
+---
 
 ## 📞 Contact
 
